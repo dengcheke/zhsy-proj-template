@@ -1,0 +1,8 @@
+[submodule "packages/ui"]
+	path = packages/ui
+	url = git@github.com:dengcheke/ele-rw.git
+	branch = main
+[submodule "packages/arcgis-layer"]
+	path = packages/arcgis-layer
+	url = git@github.com:dengcheke/custom-arcgis-layer.git
+	branch = main
