@@ -5,7 +5,8 @@
     "description": "",
     "workspaces": [
         "packages/ui",
-        "packages/arcgis-layer"
+        "packages/arcgis-layer",
+        "packages/web"
     ],
     "scripts": {
         "build": "yarn workspaces run build"
