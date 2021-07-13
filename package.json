@@ -11,6 +11,9 @@
     "scripts": {
         "build": "yarn workspaces run build"
     },
+    "devDependencies": {
+        "yarn": "^1.22.10"
+    },
     "author": "",
     "license": "ISC"
 }
